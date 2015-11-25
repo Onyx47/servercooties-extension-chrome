@@ -17,6 +17,5 @@
   "browser_action": {
     "default_icon": "images/connecting.png",
     "default_title": "Go to servercooties.com"
-  },
-   "content_security_policy": "script-src 'self' https://servercooties.com; object-src 'self'"
+  }
 }
